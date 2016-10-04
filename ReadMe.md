@@ -19,3 +19,4 @@ To run tests
 The application running time is limited to 59 seconds, so for a big web site it might terminate without 
 producing a site map.
 Dynamic web sites (which use java script to generate contents) are not supported.
+The application would not recover from connection problems e.g. connection and access permission errors are not ignored.
